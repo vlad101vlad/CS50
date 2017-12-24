@@ -1,2 +1,3 @@
 # CS50
-The problem sets from the CS50 Harvard course on Computer Science
+In this project I will solve all the problem sets from the CS50 Harvard Course
+Feel free to check my code !
